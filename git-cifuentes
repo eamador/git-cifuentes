@@ -1,0 +1,10 @@
+echo "Your master is coming, Cifu!!"
+
+git checkout master
+sleep 1
+echo "Switched to master branch"
+
+git pull origin master
+sleep 1
+
+echo "The latest version of your master is here!!"
