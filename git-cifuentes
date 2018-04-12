@@ -1,3 +1,6 @@
+echo "Querying Juan Carlos I University..."
+sleep 1
+
 echo "Your master is coming, Cifu!!"
 
 git checkout master
